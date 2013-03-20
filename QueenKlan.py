@@ -1,8 +1,8 @@
 # Andrew Lee
 # School Code: 3001
 # Freehold High School
-# Contest 2
-# ACSL Cells
+# Contest 3
+# ACSL Chess Queen
 # Senior 5
 # Advisor: Mr. Gill
 # Language: Python
