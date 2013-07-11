@@ -1,3 +1,5 @@
+# Testing Git integration in ST3 lulz.
+
 for l in open('INPUT'):
 	l=l.rstrip().split(', ')
 	if l[0][0]=='D':print(''.join(sorted(l[1][:4]))*2)+' and '+(''.join(sorted(l[1][4:]))*2)
